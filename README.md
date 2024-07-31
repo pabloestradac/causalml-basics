@@ -4,6 +4,7 @@ This repository contains a series of Jupyter Notebooks that are based on the lab
 
 The notebooks are organized as follows:
 
-1. [**Wage Prediction using Lasso**](Wage_Prediction_Lasso.ipynb): This notebook is based on the lab from Chapter 1 of the book. The goal is to predict the wage of an individual based on their characteristics.
-2. [**Wage Gap based on Sex using Lasso**](Wage_Gap_Lasso.ipynb): This notebook is based on the lab from Chapter 1 of the book. The goal is to explain the wage gap based on observed characteristics and unobserved factors.
+1. [**Wage Prediction using Lasso**](Wage_Prediction_Lasso.ipynb): This notebook is based on a lab from Chapter 1 of the book. The goal is to predict wages using linear models.
+2. [**Wage Gap based on Sex using Lasso**](Wage_Gap_Lasso.ipynb): This notebook is based on a lab from Chapter 1 of the book. The goal is to explain the wage gap based on observed characteristics and unobserved factors.
+3. [**Wage Prediction using ML**](Wage_Prediction_ML.ipynb): This notebook is based on a lab from Chapter 9 of the book. The goal is to predict wages using non-linear models.
 
