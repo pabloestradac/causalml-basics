@@ -13,5 +13,3 @@ The notebooks are organized as follows:
 7. [**Regression using ML**](notebooks/ML.ipynb): This notebook is based on a lab from Chapter 9 of the book. The goal is to predict wages using non-linear models.
 8. [**Double/Debiased ML**](notebooks/DML.ipynb): IN PROGRESS
 9. [**Heterogeneous Treatment Effects**](notebooks/CATE.ipynb): IN PROGRESS
-
-<!-- 8. [**Wage Gap based on Sex using Lasso**](notebooks/Wage_Gap_Lasso.ipynb): This notebook is based on a lab from Chapter 1 of the book. The goal is to explain the wage gap based on observed characteristics and unobserved factors. -->
