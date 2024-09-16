@@ -5,7 +5,7 @@ This repository contains a collection of Jupyter notebooks focused on machine le
 The notebooks are organized as follows:
 
 1. [**OLS and Overfitting**](notebooks/OLS.ipynb): This notebook shows the basic functionalities of `statsmodels` and `pyfixest` for linear regression with the case of overfitting.
-2. [**Regression with Lasso**](notebooks/Lasso.ipynb): This notebook is based on a lab from Chapter 1 of the book [Applied Causal Inference Powered by ML and AI](https://causalml-book.org). The goal is to predict wages using penalized linear regression.
+2. [**Regression with Lasso**](notebooks/Lasso.ipynb): The goal is to predict wages using penalized linear regression.
 3. [**Classification with Classic ML**](notebooks/Classification.ipynb): This notebook introduces several classification methods, including Logit, LDA, and SVM.
 4. [**Clustering**](notebooks/Clustering.ipynb): IN PROGRESS
 5. [**Tree-based Methods**](notebooks/Trees.ipynb): IN PROGRESS
