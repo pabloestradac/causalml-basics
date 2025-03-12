@@ -8,9 +8,8 @@ The notebooks are organized as follows:
 2. [**Regression with Lasso**](notebooks/Lasso.ipynb): prediction of wages using penalized linear regression.
 3. [**Classification Models**](notebooks/Classification.ipynb): basics of classification and model evaluation using `sklearn`.
 4. [**Clustering**](notebooks/Clustering.ipynb): This notebooks explores dimensionality reduction techniques like Principal Component Analysis (PCA) and K-means clustering.
-5. [**Imbalanced Data**](notebooks/Imbalanced.ipynb): techniques to handle imbalanced data using `imbalanced-learn`.
-6. [**Tree-based Methods**](notebooks/Trees.ipynb): Basic introduction to tree-based methods like Decision Trees and Random Forest.
-7. [**Neural Networks**](notebooks/Neural_Networks.ipynb): Basic introduction to neural networks using `sklearn` and `pytorch`.
-8. [**Regression using ML**](notebooks/ML.ipynb): This notebook is based on a lab from Chapter 9 of the book Causal ML. The goal is to predict wages using non-linear models and stacking.
-9. [**Double/Debiased ML**](notebooks/DML.ipynb): IN PROGRESS
-10. [**Heterogeneous Treatment Effects**](notebooks/CATE.ipynb): IN PROGRESS
+5. [**Tree-based Methods**](notebooks/Trees.ipynb): Basic introduction to tree-based methods like Decision Trees and Random Forest.
+6. [**Neural Networks**](notebooks/Neural_Networks.ipynb): Basic introduction to neural networks using `sklearn` and `pytorch`.
+7. [**Regression using ML**](notebooks/ML.ipynb): This notebook is based on a lab from Chapter 9 of the book Causal ML. The goal is to predict wages using non-linear models and stacking.
+8. [**Double/Debiased ML**](notebooks/DML.ipynb): IN PROGRESS
+9.  [**Heterogeneous Treatment Effects**](notebooks/CATE.ipynb): IN PROGRESS
